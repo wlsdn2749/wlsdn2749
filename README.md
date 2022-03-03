@@ -6,9 +6,12 @@ PS profile
 - 🔭 I’m currently focusing on ... transfering another univ.(Successfully transfer to CNU!) , PS(http://solved.ac/wlsdn2749)
 - 📚 I'm currently studying on ... ML/DL for Human/game AI
 - 🌱 I’m currently learning ... Computer Science in Chungnam National University 
-- 📫 How to reach me: please contact to wlsdn2749@gmail.com
+- 📫 How to reach me: please contact to serotina@o.cnu.ac.kr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... anything about game  
+
+
+I WANT TO BE AN ARTIFICIAL INTELLIGENCE ENGINEER.
 
 - 🥉 Jeonju ICT innovation Square Coding Contest - Excellence Award 8th
 
