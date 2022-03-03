@@ -10,8 +10,7 @@ PS profile
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... anything about game  
 
-
-I WANT TO BE AN ARTIFICIAL INTELLIGENCE ENGINEER.
+><h2>I WANT TO BE AN ARTIFICIAL INTELLIGENCE ENGINEER.</h2>
 
 - 🥉 Jeonju ICT innovation Square Coding Contest - Excellence Award 8th
 
