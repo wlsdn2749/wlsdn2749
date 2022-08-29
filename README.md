@@ -10,7 +10,7 @@ PS profile
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... anything about game  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?wlsdn2749=wlsdn2749)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlsdn2749)](https://github.com/anuraghazra/github-readme-stats)
 
 ><h2>I WANT TO BE AN ARTIFICIAL INTELLIGENCE ENGINEER.</h2>
 
