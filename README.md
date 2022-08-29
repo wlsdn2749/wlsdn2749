@@ -1,14 +1,16 @@
 ### Hi there 👋
-PS profile
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn2749)](https://solved.ac/wlsdn2749/)
-- 🔭 I’m currently focusing on ... transfering another univ.(Successfully transfer to CNU!) , PS(http://solved.ac/wlsdn2749)
+- 🔭 I’m currently focusing on ... NLP
 - 📚 I'm currently studying on ... ML/DL for Human/game AI
 - 🌱 I’m currently learning ... Computer Science in Chungnam National University 
-- 📫 How to reach me: please contact to serotina@o.cnu.ac.kr
+- 📫 How to reach me: please contact to wlsdn2749@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... anything about game  
 
 
-I WANT TO BE AN ARTIFICIAL INTELLIGENCE ENGINEER.
-><h2>I WANT TO BE AN ARTIFICIAL INTELLIGENCE ENGINEER.</h2>
-- 🥉 Jeonju ICT innovation Square Coding Contest - Excellence Award 8th
+### Goals
+- Be a Software Maestro in 2023
+- Do an Ai intern at Smilegate.ai
+- Make a Chatbot or anything related in ML 
