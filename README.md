@@ -5,9 +5,21 @@
 - 🔭 I’m currently focusing on ... NLP
 - 📚 I'm currently studying on ... ML/DL for Human/game AI
 - 🌱 I’m currently learning ... Computer Science in Chungnam National University 
+- 👋 I’m currently working ... Undergraduate researcher in ISoft Lab ( 2022.07 ~ current )
 - 📫 How to reach me: please contact to wlsdn2749@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... anything about game  
+
+### Using Framework and Library
+- Javascript : React
+- Python : Django, Fastapi, Pytorch, Pytorch-lightning
+- DB : mysql, mariadb
+
+- Search engine : elastic search
+
+
+### Using tools
+- Visual Studio Code, PyCharm, Datagrip, Intellij ... 
 
 
 ### Goals
