@@ -11,8 +11,8 @@
 - ⚡ Fun fact: ... anything about game  
 
 ### Using Framework and Library
-- Javascript : React
-- Python : Django, Fastapi, Pytorch, Pytorch-lightning
+- Frotend : React
+- Backend : Django, Fastapi, Pytorch, Pytorch-lightning
 - DB : mysql, mariadb
 
 - Search engine : elastic search
@@ -28,4 +28,4 @@
 - Make a Chatbot or anything related in ML 
 
 ### Works
-- Smilegate Winter Dev Camp 2th
+- Smilegate Winter Dev Camp 2th ( current )
