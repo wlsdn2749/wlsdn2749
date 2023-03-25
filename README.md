@@ -18,16 +18,25 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... anything about game  
 
+
+### Contact
+<a href="https://www.linkedin.com/in/%EC%A7%84%EC%9A%B0-%EC%A0%95-303188250/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a>
+<a href="mailto:wlsdn2749@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+</a>
+
 ### Using Framework and Library
-- Frotend : React
+- Frontend : React, Pynecone(prac)
 - Backend : Django, Fastapi, Pytorch, Pytorch-lightning
-- DB : mysql, mariadb
-- Search engine : elastic search
+- DB : mysql, mariadb, redis
+- Search engine : ELK stack
+- Infrastructure : Docker-compose
 
 
 ### Using tools
-- Visual Studio Code, PyCharm, Datagrip, Intellij ... 
-
+- Only Use Visual Studio Code
 
 ### Goals
 - Be a Software Maestro in 2023
@@ -35,4 +44,8 @@
 - Make a Chatbot or anything related in ML 
 
 ### Works
-- Smilegate Winter Dev Camp 2th ( current )
+- Smilegate Winter Dev Camp 2th (2022.12 ~ 2023.2)
+- Graduate Projects ( 2023.03 ~ current)
+  - CNU Autonomous Driving Simulator using by [CARLA](https://carla.org/)
+
+
