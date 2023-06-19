@@ -28,7 +28,7 @@
 </a>
 
 ### Using Framework and Library
-- Frontend : React, Pynecone(prac)
+- Frontend : React, Pynecone(practice)
 - Backend : Django, Fastapi, Pytorch, Pytorch-lightning
 - DB : mysql, mariadb, redis
 - Search engine : ELK stack
@@ -36,12 +36,15 @@
 
 
 ### Using tools
-- Only Use Visual Studio Code
+- Visual Studio Code
 
 ### Goals
-- Be a Software Maestro in 2023
-- Do an Ai intern at Smilegate.ai
-- Make a Chatbot or anything related in ML 
+- ~~Be a Software Maestro in 2023~~
+- ~~Do an Ai intern at Smilegate.ai~~
+- ~~Make a Chatbot or anything related in ML~~
+- Make a Puzzle game using Unity 3D
+- publishing a paper in 2023 HCLT
+- Do a game simulator developing intern in Smilegate Megaport, 2023 winter
 
 ### Works
 - Smilegate Winter Dev Camp 2th (2022.12 ~ 2023.2)
