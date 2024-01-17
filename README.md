@@ -1,4 +1,8 @@
-### Hi there 👋
+### _Be a developer makes touching and romatic programs like Human/Game AI_
+
+---
+
+I'm trying to follow up on AI research and development, I'm especially interested in natural language processing and reinforcement learning, so I'm trying to work on personal projects and read the latest/key papers, and have various experiences through LinkedIn, KakaoTalk, and related seminar activities. I am also interested in multimodal such as vision and speech.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn2749)](https://solved.ac/wlsdn2749/)
@@ -7,15 +11,17 @@
 ![Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsdn2749&show_icons=true&theme=highcontrast)  
 <br>
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdn2749&layout=compact&theme=tokyonight)
+<a href="https://opgc.me/#/users/wlsdn2749" target="_blank"><img src="https://api.opgc.me/githubs/users/wlsdn2749/tag/?theme=basic" /></a>
+<br>
+</br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlsdn2749hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently focusing on ... NLP, RL
-- 📚 I'm currently studying on ... ML/DL for Human/game AI
+- 🔭 I’m currently focusing on ... RL (Specifically GameAI), GenAI, NLP
+- 📚 I'm currently studying on ... Modern Web Apllication frameworks [AHA stack](https://ahastack.dev/)
 - 🌱 I’m currently learning ... Computer Science in Chungnam National University 
-- 👋 I’m currently working ... Undergraduate researcher in ISoft Lab ( 2022.07 ~ current )
+- 👋 I’m currently working ... SSAFY 11th (2024.01 ~ )
 - 📫 How to reach me: please contact to wlsdn2749@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ... anything about game  
 
 
@@ -37,18 +43,16 @@
 
 ### Using tools
 - Visual Studio Code
+- Zotero
 
 ### Goals
-- ~~Be a Software Maestro in 2023~~
-- ~~Do an Ai intern at Smilegate.ai~~
-- ~~Make a Chatbot or anything related in ML~~
-- Make a Puzzle game using Unity 3D
-- publishing a paper in 2023 HCLT
-- Do a game simulator developing intern in Smilegate Megaport, 2023 winter
+- Make a Puzzle game using Unity 3D and Apply PCG(Precedure Content Generation) or Game Bot
+- Get a Samsung Competency Testing B lisence
 
 ### Works
 - Smilegate Winter Dev Camp 2th (2022.12 ~ 2023.2)
-- Graduate Projects ( 2023.03 ~ current)
+- Undergraduate researcher in ISoft Lab ( 2022.07 ~ 2024.01 )
+- Graduate Projects ( 2023.03 ~ 2023.11 )
   - CNU Autonomous Driving Simulator using by [CARLA](https://carla.org/)
 
 
