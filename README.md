@@ -2,7 +2,7 @@
 
 ---
 
-I'm trying to follow up on AI research and development, I'm especially interested in natural language processing and reinforcement learning, so I'm trying to work on personal projects and read the latest/key papers, and have various experiences through LinkedIn, KakaoTalk, and related seminar activities. I am also interested in multimodal such as vision and speech.
+I'm trying to follow up on AI research and development, I'm especially interested in natural language processing and reinforcement learning applying to Game, so I'm trying to work on personal projects and read the latest/key papers, and have various community experiences like Linkedin and related seminar activities. I am also interested in multimodal such as vision and speech.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn2749)](https://solved.ac/wlsdn2749/)
