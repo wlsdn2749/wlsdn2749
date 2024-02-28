@@ -8,18 +8,14 @@ I'm trying to follow up on AI research and development, I'm especially intereste
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn2749)](https://solved.ac/wlsdn2749/)
 <br>
 </br>
-![Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsdn2749&show_icons=true&theme=highcontrast)  
-<br>
-</br>
 <a href="https://opgc.me/#/users/wlsdn2749" target="_blank"><img src="https://api.opgc.me/githubs/users/wlsdn2749/tag/?theme=basic" /></a>
 <br>
 </br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlsdn2749hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🔭 I’m currently focusing on ... RL (Specifically GameAI), GenAI, NLP
-- 📚 I'm currently studying on ... Modern Web Apllication frameworks [AHA stack](https://ahastack.dev/)
-- 🌱 I’m currently learning ... Computer Science in Chungnam National University 
-- 👋 I’m currently working ... SSAFY 11th (2024.01 ~ )
+- 📚 I'm currently studying on ... Unreal 5 Modern Game Engine Framework
+- 👋 I’m currently working ... None
 - 📫 How to reach me: please contact to wlsdn2749@gmail.com
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... anything about game  
@@ -43,10 +39,10 @@ I'm trying to follow up on AI research and development, I'm especially intereste
 
 ### Using tools
 - Visual Studio Code
-- Zotero
+- Zotero (Reading Papers)
 
 ### Goals
-- Make a Puzzle game using Unity 3D and Apply PCG(Precedure Content Generation) or Game Bot
+- Make a Puzzle game using Game Engine and Apply PCG(Precedure Content Generation) or Game Bot
 - Get a Samsung Competency Testing B lisence
 
 ### Works
