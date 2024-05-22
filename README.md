@@ -14,9 +14,9 @@ I'm trying to follow up on AI research and development, I'm especially intereste
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlsdn2749hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🔭 I’m currently focusing on ... RL (Specifically GameAI), GenAI, NLP
-- 📚 I'm currently studying on ... Unreal 5 Modern Game Engine Framework
-- 👋 I’m currently working ... None
-- 📫 How to reach me: please contact to wlsdn2749@gmail.com
+- 📚 I'm currently studying on ... Unity Game Framework
+- 👋 I’m currently working ... Apply Unity RL framework ml-agent at Simple Shooting Games
+- 📫 How to reach me: please contact to Linkedin
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... anything about game  
 
@@ -30,7 +30,7 @@ I'm trying to follow up on AI research and development, I'm especially intereste
 </a>
 
 ### Using Framework and Library
-- Frontend : React, Pynecone(practice)
+- Frontend : Astro (myblog!)
 - Backend : Django, Fastapi, Pytorch, Pytorch-lightning
 - DB : mysql, mariadb, redis
 - Search engine : ELK stack
@@ -42,8 +42,7 @@ I'm trying to follow up on AI research and development, I'm especially intereste
 - Zotero (Reading Papers)
 
 ### Goals
-- Make a Puzzle game using Game Engine and Apply PCG(Precedure Content Generation) or Game Bot
-- Get a Samsung Competency Testing B lisence
+- Making a game bot with RL
 
 ### Works
 - Smilegate Winter Dev Camp 2th (2022.12 ~ 2023.2)
