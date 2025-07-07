@@ -1,24 +1,15 @@
-### _Be a developer makes touching and romatic programs like Human/Game AI_
+### 게임 도메인에서 서버 프로그래머와 AI 엔지니어를 꿈꾸고 있는 정진우 입니다.
 
 ---
 
+현재, 게임 서버 엔지니어를 목표로 프로젝트와 학습을 병행하며 다음과 같은 가치를 지향하고 있습니다.
+- **꾸준한 학습** : 게임 기능을 개발하며 습득한 지식을 즉시 적용하고, 그 과정의 문제점과 배운 점을 회고해 한 단계씩 역량을 확장하고 있습니다.
+
+
+### (수정중) <br/>
 I'm trying to follow up on AI research and development, I'm especially interested in natural language processing and reinforcement learning applying to Game, so I'm trying to work on personal projects and read the latest/key papers, and have various community experiences like Linkedin and related seminar activities. I am also interested in multimodal such as vision and speech.
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn2749)](https://solved.ac/wlsdn2749/)
-<br>
-</br>
-<a href="https://opgc.me/#/users/wlsdn2749" target="_blank"><img src="https://api.opgc.me/githubs/users/wlsdn2749/tag/?theme=basic" /></a>
-<br>
-</br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlsdn2749hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-- 🔭 I’m currently focusing on ... RL (Specifically GameAI), GenAI, NLP
-- 📚 I'm currently studying on ... Unity Game Framework
-- 👋 I’m currently working ... Apply Unity RL framework ml-agent at Simple Shooting Games
-- 📫 How to reach me: please contact to Linkedin
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... anything about game  
 
 
 ### Contact
