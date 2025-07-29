@@ -25,7 +25,7 @@
 
 <!-- 기술 스택 Section -->
 
-### 🛠️ Teck Stack (Game Server)
+### 🛠️ Tech Stack (Game Server)
 | Category | Stack | 비고 |
 |-----------|-------|------|
 | **Language** | `C++`, `C#`, `Python` | 서버‧툴 제작, 스크립트|
@@ -36,7 +36,7 @@
 | **Collaboration** | `Git`, `GitHub`, `Notion`, `Slack` | 문서·프로젝트 관리 |
 
 
-### 🛠️ Teck Stack (Web, AI, Game AI)
+### 🛠️ Tech Stack (Web, AI, Game AI)
 | Category | Stack | 비고 |
 |-----------|-------|------|
 | **Language** | `Python`, `JavaScript`, `TypeScript` | AI, 웹페이지 제작|
