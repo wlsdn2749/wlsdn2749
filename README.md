@@ -53,7 +53,7 @@
 ### 🌟 Main Projects
 | 프로젝트 | 개요 | 주요 기술 | 링크 |
 |---|----|-----------|------|
-| **2D-MMORPG-Replica** | 바람의 나라 클래식 모작 **[개발중]** | C++ IOCP, Protobuf, gRPC, Unity | [[Repo]](https://github.com/wlsdn2749/2d-mmorpg-replica-server) |
+| **2D-MMORPG-Replica** | 바람의 나라 클래식 모작 **[개발중]** | C++ IOCP, Protobuf, gRPC, Unity, mssql | [[Repo]](https://github.com/wlsdn2749/2d-mmorpg-replica-server) |
 | **IOCP Server Unity Client Demo** | IOCP Server와 Unity 클라이언트의 멀티플레이어 게임 데모 | C++ IOCP, Protobuf, Unity | [[Repo]](https://github.com/wlsdn2749/iocp-server-unity-client-demo) |
 | **게임 강화학습 AI Agent 제작** | Unity 기반 슈팅, 퍼즐, 달리기에 강화학습 AI Agent를 적용 | Unity, Unity ML-Agent | [[달리기]](https://github.com/wlsdn2749/Kimchi-Run-AI), [[퍼즐]](https://github.com/wlsdn2749/unity-ml-agent-brickbreaker) [[슈팅]]() |
 
